@@ -844,7 +844,8 @@ footer {
 		display: none;
 		position: absolute;
 		top: 60px;
-		left: 0;
+		left: -20px;
+    		width: 100vw;
 		background: #0e1317;
 	}
 	.nav-list {
